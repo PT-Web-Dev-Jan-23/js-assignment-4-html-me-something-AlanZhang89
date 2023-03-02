@@ -1,1 +1,16 @@
 /* Write your CSS here! */
+
+
+article, footer, header, main, section {
+    display: block;
+}
+body {
+    background-color: rgb(138, 139, 113);
+  }
+h2{
+    font-size: 30px;
+    color: rgb(19, 7, 61);
+}
+h1{
+    font-size: 40px;
+}
